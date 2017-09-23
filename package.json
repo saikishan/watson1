@@ -1,0 +1,24 @@
+{
+  "name": "watson1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saikishan/watson1.git"
+  },
+  "author": "kishan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saikishan/watson1/issues"
+  },
+  "homepage": "https://github.com/saikishan/watson1#readme",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4",
+    "watson-developer-cloud": "^2.39.0"
+  }
+}
